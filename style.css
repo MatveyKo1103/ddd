@@ -1,0 +1,69 @@
+body {
+    font-family: sans-serif;
+    background-color: bisque;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    color: navy;
+    text-align: center;
+}
+
+nav {
+    border-bottom: 1px dashed navy;
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: royalblue;
+    margin: 30px;
+}
+
+.gallery {
+    display: flex;
+    width: 960px;
+    justify-content: center;
+}
+
+.main {
+    text-align: left;
+    color: black;
+    background-color: aquamarine;
+}
+
+.tth {
+ margin-left: 150px;
+}
+
+.hhh {
+    background-color: blueviolet;
+    color: black;
+    border-radius: 20px;
+}
+
+.ttt {
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+}
+
+.goverla {
+    background-color: beige;
+}
+
+.carpaty {
+    background-color: blanchedalmond;
+}
+
+.ddd {
+    text-align: left;
+    background-color: brown;
+    color: black;
+}
